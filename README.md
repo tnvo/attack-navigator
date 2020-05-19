@@ -29,11 +29,12 @@ Use our [GitHub Issue Tracker](https://github.com/mitre-attack/attack-navigator/
 ## Install and Run
 #### First time
 1. Navigate to the **nav-app** directory
-2. Run `npm install`
+2. Run `npm install` 
 
 #### Serve application on local machine
-1. Run `ng serve` within the **nav-app** directory
-2. Navigate to `localhost:4200` in browser
+1. Install Angular CLI with `npm install -g @angular/cli`
+2. Run `ng serve` within the **nav-app** directory
+3. Navigate to `localhost:4200` in browser
 
 #### Compile for use elsewhere
 1. Run `ng build` within the **nav-app** directory
